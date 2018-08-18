@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="hint_nom">Nom</string>
+    <string name="hint_Email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_pass">Confirm_password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">register</string>
+    <string name="err_message_nameor">Enter Fulll Name</string>
+    <string name="err_message_email">Enter Valid Email</string>
+    <string name="err_message_age">Enter Age</string>
+    <string name="err_message_password">Enter Password</string>
+    <string name="success_messgae">Registration Successful</string>
+    <string name="text_not_member">No Account yet? Create one</string>
+    <string name="err_email_exist">Email Already Exists</string>
+    <string name="err_password_match">Password Does Not Matches</string>
+    <string name="text_member">Already a member? Login</string>
+    <string name="err_valid_email_password">Wrong Email or Password</string>
+</resources>
